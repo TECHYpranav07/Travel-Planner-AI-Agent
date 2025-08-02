@@ -25,7 +25,6 @@ The **Travel Planner AI Agent** revolutionizes travel planning by transforming c
 - ☁ **IBM Watson Assistant** – Conversational AI  
 - ☁ **IBM Cloud** – Hosting and deployment  
 - 🤖 **IBM Watson Discovery / NLP** – Intelligent search & recommendations  
-- 🔗 **Node-RED / Flask** – Workflow automation & backend  
 - 🌐 **APIs** – Google Maps, Weather, Flight & Hotel APIs  
 
 ---
@@ -44,7 +43,7 @@ This AI solution provides:
 ✨ Conversational AI interface powered by IBM Watson  
 ✨ Personalized itineraries with real-time weather & travel insights  
 ✨ Integrated recommendations for flights and hotels  
-✨ Voice interaction and multilingual support  
+  
 
 ---
 
